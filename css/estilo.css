@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+    color:black;
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-align: center;
+}
+h1 {
+    background-color: rgb(228, 226, 136);
+}
+h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+}
+h3, ul{
+    border: 5px solid rgb(0,0,0)
+}
+
