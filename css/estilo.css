@@ -25,11 +25,30 @@ h3, ul{
 }
 
 .resolver{
-    background-color: red;
+    background-color: rgba(26, 143, 11, 0.493);
 }
 .resolver:hover{
     background-color: rgb(126, 89, 160);
     transition: .5s;
     text-align: center;
+}
+.fontes2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.bord{
+    border: 5px solid black;
+}
+#fonte1{
+    font-family: fantasy;
+}
+#cores1{
+    background-color: rgba(53, 132, 197, 0.548);
+}
+#cores2{
+    background-color: rgba(87, 10, 231, 0.473);
+}
+#borda{
+    border: 5px solid black;
 }
 
