@@ -3,15 +3,33 @@ body {
     color:black;
     font-family: "Helvetica", "Arial", sans-serif;
     text-align: center;
+    
 }
 h1 {
     background-color: rgb(228, 226, 136);
 }
-h1, h2, h3 {
+h4{
+    background-color: rgb(228, 226, 136);
+
+}
+
+h1, h2, h3, h4 {
+    background-color: rgb(228, 226, 136);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: green;
 }
+
 h3, ul{
-    border: 5px solid rgb(0,0,0)
+    background-color: rgb(228, 226, 136);
+
+}
+
+.resolver{
+    background-color: red;
+}
+.resolver:hover{
+    background-color: rgb(126, 89, 160);
+    transition: .5s;
+    text-align: center;
 }
 
